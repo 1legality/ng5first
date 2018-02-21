@@ -34,7 +34,7 @@ If not already done, install angular-cli-ghpages
 `yarn global add angular-cli-ghpages`
 
 Build the project
-`ng build --prod --base-href="https://1legality.github.io/ng5first"`
+`ng build --prod --base-href="https://1legality.github.io/ng5first/"`
 
 Release project
 `angular-cli-ghpages`
