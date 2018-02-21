@@ -31,7 +31,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ## Release on github.io
 
 If not already done, install angular-cli-ghpages
-`yarn add global angular-cli-ghpages`
+`yarn global add angular-cli-ghpages`
 
 Build the project
 `ng build --prod --base-href="https://1legality.github.io/ng5first"`
