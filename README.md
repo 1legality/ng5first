@@ -27,3 +27,14 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+## Release on github.io
+
+If not already done, install angular-cli-ghpages
+`yarn add global angular-cli-ghpages`
+
+Build the project
+`ng build --prod --base-href="https://1legality.github.io/ng5first"`
+
+Release project
+`angular-cli-ghpages`
