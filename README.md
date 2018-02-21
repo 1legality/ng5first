@@ -1,5 +1,7 @@
 # Ng5
 
+This project comes from a web tutorial to learn Angular 5 located at [https://youtu.be/oa9cnWTpqP8](https://youtu.be/oa9cnWTpqP8).
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.4.
 
 ## Development server
